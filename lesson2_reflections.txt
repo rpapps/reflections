@@ -1,1 +1,2 @@
 What happens when you initialize a repository? Why do you need to do it?
+It creates a new hidden directory called dit to save all the files that workspace needs to keep the control version.
