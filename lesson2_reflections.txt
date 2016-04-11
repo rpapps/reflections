@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a new hidden directory called dit to save all the files that workspace needs to keep the control version.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use this area as intermediate changes before commit changes.
+
