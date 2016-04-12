@@ -1,1 +1,3 @@
 Lesson3_Reflections
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+When you do a logical change or solve an issue that worth save it to keep the commit in the perfect measure instead do it too big or too small.
