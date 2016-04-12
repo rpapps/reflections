@@ -9,3 +9,6 @@ Branches are alternative paths to implement new features or to correct bugs with
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I'm not quite sure, but I think is because you can merge different points of your code easier, or compare with the most recent change.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It's easier to review new changes and control what's going to be changed, but at the same time controlling those merges could be such a difficult task if there were many people working on it.
